@@ -5,23 +5,23 @@ para propor soluções de transformação social e resolução de problemas por 
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" align="right">
 
-Sou desenvolvedor apaixonado por tecnologia, código limpo e aprendizado contínuo 🚀  
+Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀  
 
 ---
 
 ## 🧑‍💻 Sobre mim
-- 🔭 Atualmente trabalhando em projetos de **[tecnologia/projeto atual]**
-- 🌱 Estudando **[framework/linguagem]**
+- 🔭 Atualmente trabalhando no desenvolvimento do meu jogo Epifania Sombria(mudará) **[tecnologia/projeto atual]**
+- 🌱 Estudando **[]**
 - 💡 Interesses: **Open Source, DevOps, IA**
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seuusuario) | [Portfólio](https://seusite.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/edvaldorodriguesdasilva/) | [Portfólio](https://seusite.com)
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CII Best Practices](https://img.shields.io/cii/:metric/:projectId)
+
 
 ---
 
