@@ -39,9 +39,9 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 
 ---
 ## 🌐 Projetos em destaque
-- [Projeto 1](https://github.com/seuusuario/projeto1) – Jogo em fase de desenvolvimento  
-- [Projeto 2](https://github.com/seuusuario/projeto2) – Sítio digital do jogo
-- [Projeto 3](https://github.com/seuusuario/projeto3) – Leviatã - projeto de ciência de dados  
+- [Projeto 1](https://github.com/Edvaldo-Rodrigues/Epifania-sombria) – Jogo em fase de desenvolvimento  
+- [Projeto 2](https://github.com/Edvaldo-Rodrigues/resistencia16-bits) – Sítio digital do jogo
+- [Projeto 3](https://github.com/Edvaldo-Rodrigues/Leviat-) – Leviatã - projeto de ciência de dados  
 
 ---
 
