@@ -36,7 +36,10 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Edvaldo-Rodrigues&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldo-Rodrigues&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+## 📈 Mais estatísticas
 
+Confira meu perfil completo no **Profile Summary for GitHub**:  
+[👉 Clique aqui](https://profile-summary-for-github.com/user/Edvaldo-Rodrigues)
 ---
 ## 🌐 Projetos em destaque
 - [Projeto 1](https://github.com/Edvaldo-Rodrigues/Epifania-sombria) – Jogo em fase de desenvolvimento  
