@@ -31,11 +31,6 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edvaldo-Rodrigues&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldo-Rodrigues&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 ## 📈 Mais estatísticas
 
 Confira o resumo do meu perfil:  
