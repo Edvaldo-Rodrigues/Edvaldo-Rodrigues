@@ -3,7 +3,7 @@ Neste perfil, apresento alguns projetos que estou desenvolvendo na área de tecn
 para propor soluções de transformação social e resolução de problemas por meio da arte e tecnologia.
 
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" align="right">
+<img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://giphy.com/gifs/xWMPYx55WNhX136T0V)" width="200" align="right">
 
 Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀  
 
