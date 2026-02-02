@@ -3,6 +3,7 @@ Neste perfil, apresento alguns projetos que estou desenvolvendo na área de tecn
 para propor soluções de transformação social e resolução de problemas por meio da arte e tecnologia.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDByMjEybWd1aWsyazU0Mjdvb3NvMGEzbzdmMDNxYWU4eWs3cGgycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbBsgXdWFhr8nfz0ho/giphy.gif" width="1000" height="500" align="center">
+Pixel Arte por https://giphy.com/dariusantonx
 
 Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀  
 
