@@ -20,7 +20,8 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 ## 🚀 Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CII Best Practices](https://img.shields.io/cii/:metric/:projectId)
+https://img.shields.io/visual-studio-marketplace/:format/:extensionId
+
 
 
 ---
@@ -29,13 +30,6 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
