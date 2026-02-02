@@ -38,8 +38,7 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 </p>
 ## 📈 Mais estatísticas
 
-Confira meu perfil completo no **Profile Summary for GitHub**:  
-[👉 Clique aqui](https://profile-summary-for-github.com/user/Edvaldo-Rodrigues)
+Confira o resumo do meu perfil:  
 [![Profile Summary](https://img.shields.io/badge/Profile%20Summary-Edvaldo%20Rodrigues-blue?style=for-the-badge&logo=github)](https://profile-summary-for-github.com/user/Edvaldo-Rodrigues)
 ---
 ## 🌐 Projetos em destaque
