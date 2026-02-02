@@ -12,8 +12,8 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 ## 🧑‍💻 Sobre mim
 - 🔭 Atualmente trabalhando no desenvolvimento do meu jogo Epifania Sombria(mudará) **[tecnologia/projeto atual]**
 - 🌱 Estudando **[]**
-- 💡 Interesses: **Open Source, DevOps, IA**
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/edvaldorodriguesdasilva/) | [Portfólio](https://seusite.com)
+- 💡 Interesses: Indie games, retro games, finanças, ciência de dados, artes visuais, educação.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/edvaldorodriguesdasilva/) | [Portfólio](https://edvaldorodrigues.my.canva.site/)
 
 ---
 
@@ -38,20 +38,12 @@ Sou desenvolvedor apaixonado por arte, tecnologia e aprendizado contínuo 🚀
 </p>
 
 ---
-
-## 🎬 Animações e GIFs
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</p>
-
----
-
 ## 🌐 Projetos em destaque
-- [Projeto 1](https://github.com/seuusuario/projeto1) – Aplicação web para gerenciamento de tarefas  
-- [Projeto 2](https://github.com/seuusuario/projeto2) – API RESTful em Node.js  
-- [Projeto 3](https://github.com/seuusuario/projeto3) – Dashboard interativo com React  
+- [Projeto 1](https://github.com/seuusuario/projeto1) – Jogo em fase de desenvolvimento  
+- [Projeto 2](https://github.com/seuusuario/projeto2) – Sítio digital do jogo
+- [Projeto 3](https://github.com/seuusuario/projeto3) – Leviatã - projeto de ciência de dados  
 
 ---
 
 ⭐️ Se gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
+Obrigado por ler até aqui! ;)
